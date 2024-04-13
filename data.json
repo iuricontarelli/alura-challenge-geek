@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camiseta Alura",
+      "preco": 85,
+      "imagem": "./img/camisetaalura.PNG"
+    },
+    {
+      "id": 2,
+      "nome": "Camiseta Bitcoin",
+      "preco": 99.9,
+      "imagem": "./img/camisetabitcoin.PNG"
+    },
+    {
+      "id": 3,
+      "nome": "Camiseta Flamengo",
+      "preco": 349.99,
+      "imagem": "./img/camisetaflamengo.PNG"
+    }
+  ]
+}
